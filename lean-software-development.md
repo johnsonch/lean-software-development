@@ -82,6 +82,7 @@ To produce quality code that provides value to the customer while reducing waste
 * There is no reason to not ask for help
 
 <!-- End Presenter Notes -->
+
 ---
 <!-- 168595565/Mike Harrington/Iconica -->
 ![](./images/168595565.jpg)
@@ -104,6 +105,14 @@ To produce quality code that provides value to the customer while reducing waste
 	* Are we incurring technical debt?
 	* Are we being consistent?
 	* Are we coding ourselves into a corner? 
+
+---
+#Reviews
+
+* Take time to show your customers/stakeholders what you have been working on 
+  * Do these in regular intervals
+  * Try to have something they can see
+  * Keep them fairly non-technical
 
 ---
 <!-- 476141323/Svemir/iStock / 360 -->
