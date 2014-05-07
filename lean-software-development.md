@@ -1,5 +1,5 @@
 <!--- 186903759/Richard Drury/Taxi -->
-![original](./images/186903759.jpg)
+![full](./images/186903759.jpg)
 # Iterate it
 ### Lean software development
 
@@ -32,7 +32,7 @@ To produce quality code that provides value to the customer while reducing waste
 
 ---
 <!-- 116474599/Epics/Hulton Archive -->
-![original](./images/116474599.jpg)
+![](./images/116474599.jpg)
 #Tools
 
 ---
@@ -84,7 +84,7 @@ To produce quality code that provides value to the customer while reducing waste
 <!-- End Presenter Notes -->
 ---
 <!-- 168595565/Mike Harrington/Iconica -->
-![original](./images/168595565.jpg)
+![](./images/168595565.jpg)
 #Retros
 
 ---
@@ -107,7 +107,7 @@ To produce quality code that provides value to the customer while reducing waste
 
 ---
 <!-- 476141323/Svemir/iStock / 360 -->
-![original](./images/476141323.jpg)
+![](./images/476141323.jpg)
 #Pair programming
 
 * Work in pairs
