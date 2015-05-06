@@ -51,7 +51,7 @@ To produce quality code that provides value to the customer while reducing waste
 #Stories
 
 * Small group of work
-* Should be deliverable (you can ship it)
+* **Should** be deliverable (you can ship it)
 * Used to communicate with customer/stakeholder 
 
 ---
